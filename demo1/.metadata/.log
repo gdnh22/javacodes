@@ -89,6 +89,7 @@ EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 !SESSION 2019-04-19 01:03:14.725 -----------------------------------------------
 eclipse.buildId=4.11.0.I20190307-0500
 java.version=12
@@ -178,6 +179,8 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+=======
+>>>>>>> parent of c592603... gettime
 =======
 >>>>>>> parent of c592603... gettime
 =======
