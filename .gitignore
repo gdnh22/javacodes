@@ -8,3 +8,10 @@ demo1/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.in
 demo1/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log
 demo1/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index
 demo1/.metadata/.log
+<<<<<<< HEAD
+=======
+demo1/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log
+demo1/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml
+demo1/.metadata/version.ini
+demo1/.metadata/.log
+>>>>>>> 47741ea92adc4b7d80c64014827924279230e103
